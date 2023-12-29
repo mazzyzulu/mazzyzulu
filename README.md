@@ -6,8 +6,8 @@
 
 
 
-<h2>  Connect with me:</h2> 
+<h2>  Connect with me on LinkIn:</h2> (https://https://www.linkedin.com/in/shirley-zulueta)
 
 
-[linkedin]: [https://www.linkedin.com/in/shirley-zulueta/]
+
 
