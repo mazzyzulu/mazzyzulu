@@ -1,7 +1,6 @@
 <h1>Hi, I'm Shirley! <br/><a href="https://github.com/joshmadakor1">Data Enthusiast</a>
 <h2> Data Science Projects:</h2>
 
-  - Active Directory Home (https://github.com/mazzyzulu/Portfolio)
 - <b> Predicting Diabetes </b> (https://github.com/mazzyzulu/Portfolio/blob/main/Diabetes.ipynb)
 
 
