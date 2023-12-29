@@ -18,7 +18,7 @@ I'm proficient in various tools and technologies, including:
 
 ## Data Science Projects
 - **Predicting Diabetes** ([GitHub](https://github.com/mazzyzulu/Portfolio/blob/main/PredictingDiabetes.ipynb))
-- **Predicting Cancer** ([GitHub]((https://github.com/mazzyzulu/Predicting-Cancer)))
+- **Predicting Cancer** ([GitHub](https://github.com/mazzyzulu/Predicting-Cancer)
 
 ## Connect with Me on LinkedIn
 [LinkedIn Profile](https://www.linkedin.com/in/shirley-zulueta)
