@@ -2,7 +2,7 @@
 [Data Analyst | Business Intelligence Analyst | Data Scientist]
 
 ## About Me
-I'm a Data Analyst and Business Intelligence professional with over 9 years of clinical healthcare experience. My passion lies in transforming raw data into actionable insights to drive decisions and enhance patient care.
+I'm a Data Analyst and Business Intelligence professional with over 9 years of clinical healthcare experience. My passion lies in transforming raw data into actionable insights to drive decisions and enhance customer service.
 
 - **Data Analysis:** I have a knack for dissecting complex datasets, uncovering hidden trends, and translating them into meaningful stories that drive decision-making.
 - **Business Intelligence:** I specialize in developing and maintaining BI solutions, empowering organizations to visualize data, track performance, and make informed choices.
