@@ -25,7 +25,6 @@ I'm proficient in various tools and technologies, including:
 
 
 
-[LinkedIn Profile](https://www.linkedin.com/in/shirley-zulueta)
 
 
 
