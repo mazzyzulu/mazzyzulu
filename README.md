@@ -20,7 +20,9 @@ I'm proficient in various tools and technologies, including:
 - **Predicting Diabetes** ([GitHub](https://github.com/mazzyzulu/Portfolio/blob/main/PredictingDiabetes.ipynb))
 - **Predicting Cancer (Comparing and explaining black box models with LIME)** ([GitHub](https://github.com/mazzyzulu/Predicting-Cancer))
 
-## Connect with Me on LinkedIn
+## Tableau Project
+- **ChemCor Profit by Product and Industry** (https://public.tableau.com/app/profile/shirley.zulueta/viz/ChemCorProfitbyProductandIndustry/Dashboard)
+
 [LinkedIn Profile](https://www.linkedin.com/in/shirley-zulueta)
 
 
