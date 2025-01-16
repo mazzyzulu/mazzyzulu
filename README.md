@@ -16,7 +16,7 @@ I'm proficient in various tools and technologies, including:
 - Tableau
 - Power BI
 
-## Visualization and Machine Learning
+## Visualization and Machine Learning Projects
 - **Predicting Diabetes (EDA and Machine Learning Models)** ([GitHub](https://github.com/mazzyzulu/Portfolio/blob/main/PredictingDiabetes.ipynb))
 - **Predicting Cancer (Comparing and explaining black box models with LIME)** ([GitHub](https://github.com/mazzyzulu/Predicting-Cancer))
 
