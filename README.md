@@ -18,7 +18,7 @@ I'm proficient in various tools and technologies, including:
 
 ## Visualization and Machine Learning Projects
 - **Predicting Diabetes (EDA and Machine Learning Models)** ([GitHub](https://github.com/mazzyzulu/Portfolio/blob/main/PredictingDiabetes.ipynb))
-- **Predicting Heart Failure Presentation**  ([GitHub]([https://github.com/mazzyzulu/Predicting-Heart-Failure-Presentation]))
+- **Predicting Heart Failure Presentation**  ([GitHub](https://github.com/mazzyzulu/Predicting-Heart-Failure-Presentation))
 - **Predicting Cancer (Comparing and explaining black box models with LIME)** ([GitHub](https://github.com/mazzyzulu/Predicting-Cancer))
 
 ## Tableau Project
