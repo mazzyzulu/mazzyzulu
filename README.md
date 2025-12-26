@@ -19,7 +19,7 @@ I'm proficient in various tools and technologies, including:
 ## Publications
 - **Coauthor, Compliance and False Shock Alarm Rate of a Novel Wearable Cardioverter Defibrillator. Heart Rhythm, Volume 21, Issue 5, Supplement; S290–S291 (2024).** ([HeartRhythm](https://www.heartrhythmjournal.com/article/S1547-5271(24)01180-9/fulltext)), ([Poster](https://resources.kestramedical.com/hubfs/Brochures%20and%20Flyers/MKT-00113-01_A_Abstract%20Poster.pdf))
 
-- **Coauthor, Primary Results from the Post Approval Study of a Next Generation Wearable Cardioverter Defibrillator System: the ACE-PAS Trial. Circulation, Late-Breaking Science Abstracts, AHA Scientific Sessions (2025).** ([AHA](https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001403#:~:text=Shirley%20Zulueta%2C%20ME9%3B%201UNIVERSITY%20OF,WASHINGTON%2C%20Seattle%2C%20Washington&text=Objectives%3A%20To%20assess%20safety%20and,in%20a%20large%2C%20prospective%20study.))
+- **Coauthor, Primary Results from the Post Approval Study of a Next Generation Wearable Cardioverter Defibrillator System: the ACE-PAS Trial. Circulation, Late-Breaking Science Abstracts, AHA Scientific Sessions (2025).** ([American Heart Association](https://www.ahajournals.org/doi/full/10.1161/CIR.0000000000001403#:~:text=Shirley%20Zulueta%2C%20ME9%3B%201UNIVERSITY%20OF,WASHINGTON%2C%20Seattle%2C%20Washington&text=Objectives%3A%20To%20assess%20safety%20and,in%20a%20large%2C%20prospective%20study.))
 
 ## Visualization and Machine Learning Projects
 - **Predicting Diabetes (EDA and Machine Learning Models)** ([GitHub](https://github.com/mazzyzulu/Portfolio/blob/main/PredictingDiabetes.ipynb))
