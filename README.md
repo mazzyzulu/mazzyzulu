@@ -16,6 +16,11 @@ I'm proficient in various tools and technologies, including:
 - Tableau
 - Power BI
 
+## Publications
+- ** Coauthor, Compliance and False Shock Alarm Rate of a Novel Wearable Cardioverter Defibrillator. Heart Rhythm, Volume 21, Issue 5, Supplement; S290–S291 (2024).** ([HeartRhythm][(https://www.heartrhythmjournal.com/article/S1547-5271(24)01180-9/fulltext))]
+
+- **Coauthor, Primary Results from the Post Approval Study of a Next Generation Wearable Cardioverter Defibrillator System: the ACE-PAS Trial. Circulation, Late-Breaking Science Abstracts, AHA Scientific Sessions (2025).
+
 ## Visualization and Machine Learning Projects
 - **Predicting Diabetes (EDA and Machine Learning Models)** ([GitHub](https://github.com/mazzyzulu/Portfolio/blob/main/PredictingDiabetes.ipynb))
 - **Predicting Heart Failure Presentation (EDA and Machine Learning Models)** ([GitHub](https://github.com/mazzyzulu/Predicting-Heart-Failure-Presentation/blob/main/Predicting%20Heart%20Failure%20Presentation.pdf))
